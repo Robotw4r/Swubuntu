@@ -2,7 +2,7 @@
 
 clear
 
-echo "Ajout des dépots étendus ..."
-sudo apt install wget
+echo "Installation d'utilitaires ..."
+sudo apt install -y wget
 
 echo "Installation réussie"

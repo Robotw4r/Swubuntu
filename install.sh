@@ -24,7 +24,7 @@ read -n1 -p "Choix ? " choix
 
 case "$choix" in
 
-1)  repo
+1)  repos
     ;;
 2)  utils
     ;;
